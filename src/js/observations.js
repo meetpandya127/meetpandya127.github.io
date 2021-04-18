@@ -1,3 +1,10 @@
+// Name: Meet Pandya
+// SID: 116480203
+// Email: mpandya6@myseneca.ca
+// Section: ZAA
+// WEB Final Assessment
+// Public URL: https://meetpandya127.github.io/src/index.html
+
 // An iNaturalist observation Object contains a tremendous amount of data, much of
 // it not useful in our current program. We need to transform these Observation
 // objects into a new format that matches our needs.

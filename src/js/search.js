@@ -1,3 +1,10 @@
+// Name: Meet Pandya
+// SID: 116480203
+// Email: mpandya6@myseneca.ca
+// Section: ZAA
+// WEB Final Assessment
+// Public URL: https://meetpandya127.github.io/src/index.html
+
 // Lookup geolocation info from OpenStreetMaps, using their
 // https://nominatim.openstreetmap.org/ui/search.html API
 function lookupAddress(address, callback) {

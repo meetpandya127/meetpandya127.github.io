@@ -1,3 +1,10 @@
+// Name: Meet Pandya
+// SID: 116480203
+// Email: mpandya6@myseneca.ca
+// Section: ZAA
+// WEB Final Assessment
+// Public URL: https://meetpandya127.github.io/src/index.html
+
 // Add the text to the <span>...<span> element in the element with id=observation-title
 function updateTitle(text) {
   const title = document.querySelector("#observation-title > span");

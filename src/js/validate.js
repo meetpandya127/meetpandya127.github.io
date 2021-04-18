@@ -1,3 +1,10 @@
+// Name: Meet Pandya
+// SID: 116480203
+// Email: mpandya6@myseneca.ca
+// Section: ZAA
+// WEB Final Assessment
+// Public URL: https://meetpandya127.github.io/src/index.html
+
 function validate(event) {
   // TODO - write custom validation logic to validate the longitude and latitude
   // values. The latitude value must be a number between -90 and 90; the

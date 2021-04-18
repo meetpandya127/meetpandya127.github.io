@@ -1,3 +1,10 @@
+// Name: Meet Pandya
+// SID: 116480203
+// Email: mpandya6@myseneca.ca
+// Section: ZAA
+// WEB Final Assessment
+// Public URL: https://meetpandya127.github.io/src/index.html
+
 /**
  * Map constructor function, used to create a simplifed map Object based on Leaflet
  * https://leafletjs.com/index.html
