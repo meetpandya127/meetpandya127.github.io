@@ -63,15 +63,15 @@ Public URL: https://meetpandya127.github.io/src/index.html
     <main>
       <section>
         <h2>Observation Details</h2>
-        <p><span class="required"></span> Required field</p>
-        <form id="newObservations" action="https://formspree.io/f/mdoykgqw" method="POST" onsubmit="return validate();">
+        <p><span class="required">*</span> Required field</p>
+        <form id="NewObserve" action="https://formspree.io/f/mdoykgqw" method="POST" onsubmit="return validate();">
           <!-- TODO: create the form based on the specification in the Final Assessment -->
           <fieldset>
             <legend>Observation</legend>
-                <label id="labelSpeciesGuess" for="speciesGuess" class="required">Species Guess</label> 
-                <input id="speciesGuess" name="speciesGuess" type="text" placeholder="Great Horned Owl" required/> 
+                <label id="GuessSpecies" for="spcGuess" class="required">Species Guess</label> 
+                <input id="spcGuess" name="spcGuess" type="text" placeholder="Great Horned Owl" required/> 
                 
-                <label id="labelDescription" for="description" class="required">Description</label>
+                <label id="LabelDesc" for="description" class="required">Description</label>
                 <input id="description" name="description" type="text" placeholder="Roosting on fence post at the edge of a field" required/>
 
                 <label id="labelDateObserved" for="dateObserved" class="required">Date Observed</label>
@@ -95,11 +95,11 @@ Public URL: https://meetpandya127.github.io/src/index.html
 
           <fieldset>
             <legend>Photo</legend>
-                <label id="labelPhotographerName" for="photographerName">Photographer Name</label>
-                <input id="photographerName" name="photographerName" type="text" placeholder="Karen Shu"/>
+                <label id="LabelPhotoName" for="photoName">Photographer Name</label>
+                <input id="photoName" name="photoName" type="text" placeholder="Karen Shu"/>
                 
-                <label id="labelphotographerEmail" for="photographerEmail">Photographer Email</label>
-                <input id="photographerEmail" name="photographerEmail" type="text" placeholder="kshu@photos.com"/>
+                <label id="LabelPhotoEmail" for="photoEmail">Photographer Email</label>
+                <input id="photoEmail" name="photoEmail" type="text" placeholder="kshu@photos.com"/>
 
                 <label id="lablePhoto" for="photo">Photo</label>
                 <input id="photo" name="photo" type="file"/>
